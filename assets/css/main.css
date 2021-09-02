@@ -1792,8 +1792,8 @@ input, select, textarea {
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
-		background: #d6d6d6;
-		color: rgb(162, 161, 221);
+		background: #a0aed6;
+		color: rgb(224, 224, 224);
 		border: 0;
 		line-height: 1em;
 		border-radius: 8px;
@@ -1807,6 +1807,7 @@ input, select, textarea {
 		font-size: 1.25em;
 		padding: 0.85em 1.85em;
 		text-align: center;
+		margin: 0.55em 0.75em;
 	}
 
 		input[type="button"]:hover,
@@ -1814,7 +1815,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #c1edbb;
+			background: #bbc0ed;
 		}
 
 		input[type="button"]:active,
@@ -1822,7 +1823,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #a1cd9b;
+			background: #9b9ccd;
 		}
 
 		input[type="button"].alt,
@@ -1830,7 +1831,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #c1cac5;
+			background: #c1c1ca;
 		}
 
 			input[type="button"].alt:hover,
@@ -1838,7 +1839,7 @@ input, select, textarea {
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #ccd5d0;
+				background: #cdccd5;
 			}
 
 			input[type="button"].alt:active,
@@ -1846,7 +1847,7 @@ input, select, textarea {
 			input[type="reset"].alt:active,
 			button.alt:active,
 			.button.alt:active {
-				background: #b1bab5;
+				background: #b3b1ba;
 			}
 
 		input[type="button"].large,
